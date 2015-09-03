@@ -442,8 +442,8 @@
     </animation>
     <animation>
         <name>buff1</name>
-        <time_2gun>1089</time_2gun>
-        <time_cannon>1089</time_cannon>
+        <time_2gun>882</time_2gun>
+        <time_cannon>882</time_cannon>
     </animation>
     <animation>
         <name>buff2</name>
@@ -464,7 +464,7 @@
     <animation>
         <name>buff3</name>
         <time_1hand>967</time_1hand>
-        <time_2gun>825</time_2gun>
+        <time_2gun>668</time_2gun>
         <time_2hand>967</time_2hand>
         <time_2weapon>967</time_2weapon>
         <time_book>967</time_book>
@@ -574,7 +574,7 @@
     </animation>
     <animation>
         <name>chainshot1</name>
-        <time_2gun>490</time_2gun>
+        <time_2gun>536</time_2gun>
     </animation>
     <animation>
         <name>chainshot2</name>
@@ -927,7 +927,7 @@
     </animation>
     <animation>
         <name>drainatk</name>
-        <time_2gun>660</time_2gun>
+        <time_2gun>535</time_2gun>
         <time_cannon>660</time_cannon>
     </animation>
     <animation>
@@ -1129,15 +1129,15 @@
     <animation>
         <name>focusshot1</name>
         <time_1gun>1155</time_1gun>
-        <time_2gun>1155</time_2gun>
+        <time_2gun>1075</time_2gun>
     </animation>
     <animation>
         <name>focusshot2</name>
-        <time_2gun>1299</time_2gun>
+        <time_2gun>1331</time_2gun>
     </animation>
     <animation>
         <name>focusshot3</name>
-        <time_2gun>858</time_2gun>
+        <time_2gun>974</time_2gun>
     </animation>
     <animation>
         <name>frontdash</name>
@@ -1520,7 +1520,7 @@
     <animation>
         <name>lowershot</name>
         <time_1gun>666</time_1gun>
-        <time_2gun>666</time_2gun>
+        <time_2gun>985</time_2gun>
     </animation>
     <animation>
         <name>magicalflame</name>
@@ -1695,7 +1695,7 @@
     </animation>
     <animation>
         <name>pointfire1</name>
-        <time_2gun>627</time_2gun>
+        <time_2gun>920</time_2gun>
         <time_cannon>627</time_cannon>
     </animation>
     <animation>
@@ -1944,20 +1944,20 @@
     <animation>
         <name>rapidshot1</name>
         <time_1gun>330</time_1gun>
-        <time_2gun>266</time_2gun>
+        <time_2gun>494</time_2gun>
     </animation>
     <animation>
         <name>rapidshot2</name>
         <time_1gun>627</time_1gun>
-        <time_2gun>590</time_2gun>
+        <time_2gun>756</time_2gun>
     </animation>
     <animation>
         <name>rapidshot3</name>
-        <time_2gun>594</time_2gun>
+        <time_2gun>760</time_2gun>
     </animation>
     <animation>
         <name>rapidshot4</name>
-        <time_2gun>300</time_2gun>
+        <time_2gun>521</time_2gun>
     </animation>
     <animation>
         <name>rasummon</name>
@@ -2287,11 +2287,11 @@
     </animation>
     <animation>
         <name>strikeshot1</name>
-        <time_2gun>1190</time_2gun>
+        <time_2gun>1243</time_2gun>
     </animation>
     <animation>
         <name>strikeshot2</name>
-        <time_2gun>1232</time_2gun>
+        <time_2gun>1277</time_2gun>
     </animation>
     <animation>
         <name>stuckatk</name>
